@@ -11,3 +11,8 @@ homepage = "https://github.com/isophes/plotdeck-rs"
 repository = "https://github.com/isophes/plotdeck-rs"
 
 [dependencies]
+gpui = { git = "https://github.com/zed-industries/zed" }
+gpui_platform = { git = "https://github.com/zed-industries/zed", features = ["font-kit"] }
+gpui-component = { git = "https://github.com/longbridge/gpui-component" }
+gpui-component-assets = { git = "https://github.com/longbridge/gpui-component" }
+anyhow = "1.0"
