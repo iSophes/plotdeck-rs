@@ -2,5 +2,12 @@
 name = "PlotDeck"
 version = "0.1.0"
 edition = "2024"
+authors = ["Sophie B <sophie@astrofoxstudios.com>"]
+readme = "README.md"
+description = "Plotdeck is an application used to plot cues and events for theatrical shows. Inspired by CuePilot."
+license = "MIT"
+keywords = ["theatre", "ui"]
+homepage = "https://github.com/isophes/plotdeck-rs"
+repository = "https://github.com/isophes/plotdeck-rs"
 
 [dependencies]
